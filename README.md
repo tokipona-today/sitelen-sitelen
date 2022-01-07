@@ -32,7 +32,7 @@ There are a number of **containers** you can use. They make reading easier becau
 ## Credits
 
 - *Original design :* Joathan Gabel
-- *Vectorized glyphs :* jan Same (
+- *Vectorized glyphs :* jan Same
 - *Vectorized nimi sin glyphs :* (leko, kokosila, misekeke, lanpan, epiku, tonsi, monsuto, soko, kejetesantakalu, n, jasima) jan Pitaki
 - *Font :* jan Pitaki (http://tokipona.today)
 
