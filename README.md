@@ -31,9 +31,9 @@ There are a number of **containers** you can use. They make reading easier becau
 
 ## Credits
 
-- Original design :* Joathan Gabel
-- Vectorized glyphs :* jan Same
-- Font :* jan Pitaki
+- *Original design :* Joathan Gabel
+- *Vectorized glyphs :* jan Same
+- *Font :* jan Pitaki (http://tokipona.today)
 
 All this with the precious help of the whole community of tokiponists and more particularly : *jan Maje (May)* and *janKe Tami*
 
