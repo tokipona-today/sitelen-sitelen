@@ -32,7 +32,8 @@ There are a number of **containers** you can use. They make reading easier becau
 ## Credits
 
 - *Original design :* Joathan Gabel
-- *Vectorized glyphs :* jan Same
+- *Vectorized glyphs :* jan Same (
+- *Vectorized nimi sin gryphs :* (leko, kokosila, misekeke, lanpan, epiku, tonsi, monsuto, soko, kejetesantakalu, n, jasima) jan Pitaki
 - *Font :* jan Pitaki (http://tokipona.today)
 
 All this with the precious help of the whole community of tokiponists and more particularly : *jan Maje (May)* and *janKe Tami*
