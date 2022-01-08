@@ -11,7 +11,7 @@ To use it phonetically (nimisin), you just have to type in **capital letters**.
 There are a number of **containers** you can use. They make reading easier because they segment the sentence into units. If you need a 'space' inside a container, use "_" instead.
 
 ## last update 1.3.6
-*Thanks to the help of jan Maje*
+*Thanks to the help of jan Maje & jan Talu*
 1. _lon is corrected
 2. small spaces between words inside a container are corrected
 3. to add a space inside a container, use _ (underscore)
@@ -20,6 +20,7 @@ There are a number of **containers** you can use. They make reading easier becau
 6. _tawa is fixed
 7. capital letters in containers are fixed
 8. left bracket followed by underscore is fixed
+9. underscore + e is corrected
 
 **[Submit bugs and wishes here!](https://github.com/tokipona-today/sitelen-sitelen)**
 
