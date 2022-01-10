@@ -1,4 +1,5 @@
 # sitelen-sitelen
+The epic script designed by **Jonathan Gabel** deserves more than just a font. However, it's a shame that most of us don't use this crazy design in our everyday life. So, here is a font.
 
 ## A new toki pona font
 
